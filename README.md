@@ -1,16 +1,16 @@
-# PoSToken
-The World's First Proof-of-Stake Smart Contract Token on Ethereum
+# ePoS Token
+A First Proof-of-Stake Smart Contract Token on Ethereum
 
-## What is PoSToken
-PoSToken is the world's first Proof-of-Stake smart contract token on Ethereum platform. It's based on the ERC20 Token Standard and implements all standard methods. As an Ethereum token, PoSToken first implements the Proof-of-Stake mechanism, meaning that every holder can earn some extra tokens just by holding PoSToken for a period of at least 3 days, greater than or equal to The Minimum Coin Age.
+## What is ePoS Token
+ePOS is a Proof-of-Stake smart contract token on Ethereum platform based on the ERC20 Token Standard and implements all standard methods. 
 
 ## Specifications of PoSToken
-* **Name**: PoSToken
-* **Symbol**: POS
+* **Name**: ePTS
+* **Symbol**: EPS
 * **Decimals**: 18
-* **Standard**: ERC20 & PoSTokenStandard
+* **Standard**: ERC20 & ePOSStandard
 * **Platform**: Ethereum
-* **Maximum Total Supply**: 10,000,000 POS
+* **Maximum Total Supply**: 12,000,000 POS
 * **Initial Supply**: 1,000,000 POS
 * **Distribution**: Free Airdrop
 * **Minimum Coin Age**: 3 Days
@@ -21,4 +21,4 @@ PoSToken is the world's first Proof-of-Stake smart contract token on Ethereum pl
   + 3rd - 15th Year Interest: 10%
 
 ## Resource
-**[Website](https://postoken.org)** | **[Whitepaper](https://postoken.org/whitepaper.pdf)** | **[Twitter](https://twitter/PoSToken)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=2110712.0)** | **[Slack](https://join.slack.com/t/postoken/shared_invite/enQtMjQ1OTA0MzA4MDAxLThjNWQxNjllNzEyM2VhMDYzMzc3N2I1MDc4NmU3NDM5YzFkNTJlZGIxMmEzMTZmOTgxN2MyYzhkNmYzYzY1MDM)** | **[Telegram](https://t.me/PoSToken)**
+**[Website](https://websitesoon.org)** | **[Whitepaper](https://websitesoon.org/whitepaper.pdf)** | **[Twitter](https://twitter/ePoSToken)**  | **[Bitcointalk](https://bitcointalk.org/)** | **[Slack](https://join.slack.com/)** | **[Telegram](https://t.me/)**
