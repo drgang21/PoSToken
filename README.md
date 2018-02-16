@@ -1,12 +1,12 @@
-# ePoS Token
+# eCoin Accelerator Token
 A First Proof-of-Stake Smart Contract Token on Ethereum
 
-## What is ePoS Token
+## What is eCoin Accelerator  Token
 ePOS is a Proof-of-Stake smart contract token on Ethereum platform based on the ERC20 Token Standard and implements all standard methods. 
 
-## Specifications of PoSToken
-* **Name**: ePTS
-* **Symbol**: EPS
+## Specifications of eCoin Accelerator Token
+* **Name**: eCoin Accelerator
+* **Symbol**: ECA
 * **Decimals**: 18
 * **Standard**: ERC20 & ePOSStandard
 * **Platform**: Ethereum
