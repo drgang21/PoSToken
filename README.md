@@ -8,7 +8,7 @@ ePOS is a Proof-of-Stake smart contract token on Ethereum platform based on the 
 * **Name**: eCoin Accelerator
 * **Symbol**: ECA
 * **Decimals**: 18
-* **Standard**: ERC20 & ePOSStandard
+* **Standard**: ERC20
 * **Platform**: Ethereum
 * **Maximum Total Supply**: 500,000 ECA
 * **Initial Supply**: 100,000 POS
