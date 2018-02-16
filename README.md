@@ -10,14 +10,14 @@ ePOS is a Proof-of-Stake smart contract token on Ethereum platform based on the 
 * **Decimals**: 18
 * **Standard**: ERC20 & ePOSStandard
 * **Platform**: Ethereum
-* **Maximum Total Supply**: 12,000,000 POS
-* **Initial Supply**: 1,000,000 POS
-* **Distribution**: Free Airdrop & Token Sale
-* **Minimum Coin Age**: 3 Days
+* **Maximum Total Supply**: 500,000 POS
+* **Initial Supply**: 100,000 POS
+* **Distribution**: Free Airdrop
+* **Minimum Coin Age**: 7 Days
 * **Maximum Coin Age**: 90 Days
 * **PoS Annual Interest**
-  + 1st Year Interest: 100%
-  + 2nd Year Interest: 50%
+  + 1st Year Interest: up to 80%
+  + 2nd Year Interest: up to 50%
   + 3rd - 15th Year Interest: 10%
 
 ## Resource
