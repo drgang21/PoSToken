@@ -1,17 +1,17 @@
-# eCoin Accelerator Token
+# eXelerator Token
 A First Proof-of-Stake Smart Contract Token on Ethereum
 
-## What is eCoin Accelerator  Token
-ePOS is a Proof-of-Stake smart contract token on Ethereum platform based on the ERC20 Token Standard and implements all standard methods. 
+## What is eXelerator
+eXL is a Proof-of-Stake smart contract token on Ethereum platform based on the ERC20 Token Standard and implements all standard methods. 
 
 ## Specifications of eCoin Accelerator Token
 * **Name**: eCoin Accelerator
-* **Symbol**: ECA
+* **Symbol**: EXL
 * **Decimals**: 18
 * **Standard**: ERC20
 * **Platform**: Ethereum
-* **Maximum Total Supply**: 950,000 ECA
-* **Initial Supply**: 100,000 ECA
+* **Maximum Total Supply**: 1,000,000 EXL
+* **Initial Supply**: 100,000 EXL
 * **Distribution**: Free Airdrop
 * **Minimum Coin Age**: 7 Days
 * **Maximum Coin Age**: 90 Days
