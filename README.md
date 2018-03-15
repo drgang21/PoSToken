@@ -11,7 +11,7 @@ eXL is a Proof-of-Stake smart contract token on Ethereum platform based on the E
 * **Standard**: ERC20
 * **Platform**: Ethereum
 * **Maximum Total Supply**: 1,000,000 EXL
-* **Initial Supply**: 100,000 EXL
+* **Initial Supply**: 150,000 EXL
 * **Distribution**: Free Airdrop
 * **Minimum Coin Age**: 7 Days
 * **Maximum Coin Age**: 90 Days
