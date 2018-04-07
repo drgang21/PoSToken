@@ -5,7 +5,7 @@ A Proof-of-Stake Smart Contract Token on Ethereum
 eXL is a Proof-of-Stake smart contract token on Ethereum platform based on the ERC20 Token Standard and implements all standard methods. 
 
 ## Specifications of eXelerator Token
-* **Name**: eCoin Accelerator
+* **Name**: eXelerator Token
 * **Symbol**: EXL
 * **Decimals**: 18
 * **Standard**: ERC20
